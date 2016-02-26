@@ -1,0 +1,57 @@
+Day 1:
+	Orientation + Assembly
+	Introduction to mblock and scratch 2.0 modified
+		- http://www.mblock.cc/download/
+	Introduction to motion, light control, beeping
+Day 2:
+	Introduction to Line Sensing/Following
+	Line Following Tasks
+		- Butcher paper with black lines
+			- Go to line and turn
+			- Sequence turning from line to line in a pattern
+			- Stop at the n-th line
+				- EDGE DETECTION!!!
+			- Follow line in a circle or square
+			- Races to complete pattern
+			- Stay inside the ring
+	Piezo Tasks
+		- Play song while doing other things
+		- Play sound with event happens
+			- when a line is detected
+			- when the wall is too close
+Day 3:
+	Introduction to Ultrasonic Sensor
+		- Go to wall an stop
+			- and slow down
+			- beep accelerates when wall approaches
+		- Avoid walls
+			- in obstacle course
+			- in a small boxed in area
+		- Advanced tasks
+			- Locate and track moving objects
+Date 4:
+	Sumo
+		- Use previously acquired skills to program bot to sumo fight classmates
+		- Decorate bot with stickers
+	Advanced concepts
+		- Finite State Machine
+
+
+Task Template
+
+Level:
+	advanced
+Time to allot:
+	3 minutes
+Concepts:
+	for loops
+	variables
+Description:
+	Have students program the robot to make the robot run over lines and stop at the 4th one.
+Files:
+	Images
+		code.jpg
+		lines.png
+	Sketch
+		lesson-2-stop-at-line.sb2
+	
