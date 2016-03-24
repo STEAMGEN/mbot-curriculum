@@ -1,0 +1,50 @@
+		DAY 1 -  2 hours  Basic programming	
+Time	Minutes	Agenda	
+10:00	0:05	  Intro	
+10:05	0:05	  Mbot Video  -- Produced by Adobe	
+10:10	0:15	  Demo mbot programming	
+10:25	0:20	  Open mbots and install blink and beep	
+		          (Those that finish early can modify the code to	
+		           Play song with Disco lights)	
+10:45	0:05	  Video clip from Wall-e (chairs following colored lines)	
+10:45	0:10	  Discuss requirements to follow line ?  (move, turn, see line)	
+10:45	0:15	 Vision Lab - seeing black vs white	
+		              (react with sound and lights)	
+10:45	0:10	  Discuss movement (Right and left wheels, how to turn)	
+10:55	0:15	  Movement Lab - forward, back, circle, square.	
+		          (Those with extra time can follow the figure 8)	
+11:10		      Done	
+			
+		Day 2  - 1 hour  Line following 
+Time	Minutes	Agenda	
+10:00	0:05	  Intro and quick review (discus using lights to debug)	
+		            Build on previous learning to code and test	
+10:05	0:40	  Lab - Follow figure 8.  Use lights and sound for diagnostics	
+		            (Display sample but buggy line following code)	
+		            (After ~10 minutes add debugging lights (right blinker / left blinker / ready etc)	
+		            (After ~10 minutes display sample but working line following code)	
+10:45	0:15	  Drag race with peers	
+11:00		      Done	
+			
+		DAY 3 -  2 hours  Sumo	
+Time	Minutes	Agenda	
+10:00	0:05	  Intro 	
+10:05	0:05	  youtube video of mini sumo competition	
+		            https://www.youtube.com/watch?v=iL8IRF4wQmU	
+10:10	0:05	  Discuss why the red robot did so well	
+10:15	0:05	  Discuss Ultra sonic sensor - seeing other robots	
+10:20	0:10	  Lab, move forward and stop before you hit wall	
+10:30	0:05	  Discuss next lab	
+10:35	0:20	  Lab, Stay in ring   (use inside of figure 8 for testing)	
+10:55	0:15	  More sumo video 	
+11:10	0:20	  Code and test for sumo	
+11:30	0:30	  Sumo	
+12:00		      Done	
+			
+			
+	Notes:
+	  Robot stands so they don't roll	
+		Have some good start on push button code on all examples	
+		Print paper sumo rings for day 3	
+		Have working code for all labs on USB to load for those who get behind on Day 3	
+		Powerpoint slides showing the required logic / nearly correct code for all labs.	
